@@ -37,6 +37,6 @@ class C extends B {
     }
 }
 
-class D extends C {
+class D extends C { // TE
     public int f() { return 0; }
 }

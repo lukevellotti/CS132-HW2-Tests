@@ -25,7 +25,7 @@ class A {
 }
 
 class B extends A {
-    public int[] m() {
+    public int[] m() { // TE
         int[] m;
         m = new int[2];
         return m;

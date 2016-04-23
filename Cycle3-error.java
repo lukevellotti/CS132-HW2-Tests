@@ -12,6 +12,6 @@ class bar extends baz {
     int z;
 }
 
-class baz extends food {
+class baz extends foo { // TE
     boolean k;
 }

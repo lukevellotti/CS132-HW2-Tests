@@ -26,7 +26,7 @@ class B extends A {
 }
 
 class C extends B {
-    public int m() {
+    public int m() { // TE
         return 5;
     }
 }

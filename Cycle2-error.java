@@ -8,6 +8,6 @@ class foo extends bar {
     int y;
 }
 
-class bar extends foo {
+class bar extends foo { // TE
     int z;
 }

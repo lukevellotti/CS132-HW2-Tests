@@ -5,7 +5,7 @@ class Fact {
 }
 
 class foo extends bar {
-    public int m() {
+    public int m() { // TE
 	return 5;
     }
 }
